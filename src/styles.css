@@ -1,0 +1,62 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 20px;
+}
+.card {
+  background-color: #c0c0c0;
+  border-color: #3a6ea5;
+  border-width: 40px 20px;
+}
+h1 {
+  color: #ff6700;
+  font-weight: bolder;
+}
+h2 {
+  font-size: 18px;
+  font-style: italic;
+  color: #004e98;
+}
+h3 {
+  color: #004e98;
+  font-weight: 600;
+  padding: 15px 15px 0px;
+}
+h4 {
+  color: #004e98;
+  text-align: center;
+}
+#current-date {
+  text-align: left;
+  font-weight: 400;
+  padding: 0px 15px;
+  color: #ff6700;
+}
+.btn-primary {
+  background-color: #3a6ea5;
+  color: #ebebeb;
+}
+.btn-primary:hover {
+  background-color: #ebebeb;
+  color: #3a6ea5;
+  font-weight: bold;
+}
+
+#currentLocation {
+  background-color: #009830;
+  color: #ebebeb;
+}
+#currentLocation:hover {
+  background-color: #053e10;
+  color: #ebebeb;
+  font-weight: bold;
+}
+.temp {
+  background-color: #ebebeb;
+  border-radius: 100%;
+  color: #ff6700;
+  font-size: 36px;
+  font-weight: 500;
+  width: 128px;
+  margin: 0 auto;
+  text-align: center;
+}
